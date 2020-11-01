@@ -1,5 +1,9 @@
 # Release Notes 
 
+## Tháng 11/2020
+
+#### Tuần 01 (Ongoing)
+
 ## Tháng 10/2020
 
 #### Tuần 05
